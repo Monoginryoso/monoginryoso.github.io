@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "MonoGinryoso"
-  avatar           : "profile.png"
+  avatar           : "https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/profile.PNG"
   bio              : "試行錯誤による学習。"
   location         :
   employer         :
