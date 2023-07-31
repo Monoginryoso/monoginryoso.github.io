@@ -11,4 +11,4 @@ redirect_from:
 I'm an undergraduate student majoring in Biomedical Sciences and having an interest in doodling on my iPad.
 I create artworks related to biology or my original characters, and occasionally create fanart.
 
-This site is for concepts and processes of my artworks and some background information of my original characters.
+This site is for showcasing concepts and processes of my artworks.

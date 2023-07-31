@@ -1,13 +1,13 @@
 ---
 title: "Route 21A"
-excerpt: "<br/><img src=''>"
+excerpt: "<br/><img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/route_21a.jpg'>"
 collection: portfolio
 ---
 
 ### Process: 
 
 * Sketch
-<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/route_21a_sketch'>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/d5227794241839000a28d8e49a602a3e1a1be278/images/route_21a_sketch.jpg'>
 
 * Base coloring
 <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/route_21a_basecolor.jpg'>
@@ -18,7 +18,7 @@ collection: portfolio
 * Adding highlight
 <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/route_21a_highlight.jpg'>
 
-* Rendering (Adding indirect or reflective light)
+* Rendering (Adding indirect or reflective light, changed background color)
 <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/route_21a_rendering_1.jpg'>
 
 * Rendering (Adjusting colors)
