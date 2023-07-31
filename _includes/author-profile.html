@@ -46,6 +46,9 @@
       {% if author.mastodon %}
         <li><a rel="me" href="https://{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon" aria-hidden="true" style="padding-right: 1.5em;"></i>Mastodon</a></li>
       {% endif %}
+      {% if author.pixiv %}
+        <li><a rel="me" href="https://{{ author.pixiv }}"><i class="fa fa-paint-brush" aria-hidden="true" style="padding-right: 0.5em;"></i>Pixiv</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true" style="padding-right: 1.5em;"></i>Facebook</a></li>
       {% endif %}
