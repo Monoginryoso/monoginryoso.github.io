@@ -3,6 +3,7 @@ title: "Route 21A"
 excerpt: "<br/><img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/route_21a.jpg'>"
 collection: portfolio
 ---
+Based on the double-decker buses of Macao in the 1970s and the electronic products of the same period.
 
 ### Process: 
 
