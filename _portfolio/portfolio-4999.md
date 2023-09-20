@@ -1,5 +1,5 @@
 ---
-title: "ひまわりの日"
+title: "ひまわりの種"
 excerpt: "<br/><img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/himawari_no_hi.jpg'>"
 collection: portfolio
 ---
