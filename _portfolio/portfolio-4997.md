@@ -1,6 +1,6 @@
 ---
 title: "Birthday"
-excerpt: "<br/><img src=' '>"
+excerpt: "<br/><img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday.jpg'>"
 collection: portfolio
 ---
 An attempt to implement multipass compositing technique in Procreate.
@@ -8,46 +8,46 @@ An attempt to implement multipass compositing technique in Procreate.
 ### Process: 
 
 * Rough
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_rough.jpg'>
 
 * Simulating the refraction of alcohol burner in Blender
-<img src=' '>
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_refraction_1.png'>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_refraction_2.png'>
 
 * Lineart
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_lineart.jpg'>
 
 * Base coloring
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_basecolor.jpg'>
 
 * Adding Gaussian Blur to the background
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_bg_blur.jpg'>
 
 * Creating layers for multipass compositing
     - Light and shadow (Multiply)
-    <img src=' '>
+    <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_shading.jpg'>
     - Color tendency of shadow (Lighten)
-    <img src=' '>
+    <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_color_tendency_of_shadow.jpg'>
     - Color tendency of light (Darker Colour)
-    <img src=' '>
+    <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_color_tendency_of_light.jpg'>
     - Indirect light (Colour Dodge)
-    <img src=' '>
+    <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_indirect_light.jpg'>
     - Layer setting:
-    <img src=' '>
+    <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_layer_setting.JPG'>
     - After compositing these layers:
-    <img src=' '>
+    <img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_merge.jpg'>
 
 * Adding highlight
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_highlight.jpg'>
 
 * Rendering
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_rendering.jpg'>
 
 * Adding Gaussian Blur to the pH test strips
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday_blur.jpg'>
 
 * Adding filters
-<img src=' '>
+<img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday.jpg'>
 
 References:
 - Latex gloves balloon: [Ideas with latex gloves](https://balloonhq.com/wp-content/uploads/2023/03/glove1.jpg)
