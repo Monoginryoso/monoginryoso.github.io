@@ -1,7 +1,7 @@
 ---
 title: "Pipette Warrior"
 excerpt: "<br/><img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/pipette_warrior.jpg'>"
-collection: portfolio
+collection: illustrations
 ---
 ### Process: 
 

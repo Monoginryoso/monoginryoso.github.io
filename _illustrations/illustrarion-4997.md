@@ -1,7 +1,7 @@
 ---
 title: "🎂"
 excerpt: "<br/><img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/e584a980328b1f54059782d3be8b2919c81e9b73/images/birthday.jpg'>"
-collection: portfolio
+collection: illustrations
 ---
 An attempt to implement multipass compositing technique in Procreate.
 

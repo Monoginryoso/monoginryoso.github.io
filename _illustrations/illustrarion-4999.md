@@ -1,7 +1,7 @@
 ---
 title: "ひまわりの種"
 excerpt: "<br/><img src='https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/himawari_no_hi.jpg'>"
-collection: portfolio
+collection: illustrations
 ---
 An artwork posted on "ひまわりの日"(July 14).
 ### Process: 

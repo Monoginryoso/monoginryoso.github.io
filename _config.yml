@@ -190,6 +190,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  illustrations:
+    output: true
+    permalink: /:collection/:path/
+  comics:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -225,6 +232,24 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _illustrations
+  - scope:
+      path: ""
+      type: illustrations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _comics
+  - scope:
+      path: ""
+      type: comics
     values:
       layout: single
       author_profile: true
