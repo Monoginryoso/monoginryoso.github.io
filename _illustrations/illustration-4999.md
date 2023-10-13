@@ -7,37 +7,48 @@ An artwork posted on "ひまわりの日"(July 14).
 ### Process: 
 
 * Rough
-![](/images/himawari_no_hi/himawari_no_hi_rough.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_rough.jpg){:height="70%" width="70%"}
 
 * Lineart
-![](/images/himawari_no_hi/himawari_no_hi_lineart.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_lineart.jpg){:height="70%" width="70%"}
 
 * Base coloring of background
-![](/images/himawari_no_hi/himawari_no_hi_basecolor_bg.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_basecolor_bg.jpg){:height="70%" width="70%"}
 
 * Rough of sunflower
-![](/images/himawari_no_hi/himawari_no_hi_bg_rough.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_bg_rough.jpg){:height="70%" width="70%"}
 
 * Base coloring of character
-![](/images/himawari_no_hi/himawari_no_hi_basecolor_character.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_basecolor_character.jpg){:height="70%" width="70%"}
 
 * Adding ambient
-![](/images/himawari_no_hi/himawari_no_hi_ambient.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_ambient.jpg){:height="70%" width="70%"}
 
 * Adding direct light
-![](/images/himawari_no_hi/himawari_no_hi_direct_light.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_direct_light.jpg){:height="70%" width="70%"}
 
 * Rendering (Adding indirect or reflective light)
-![](/images/himawari_no_hi/himawari_no_hi_indirect_or_reflective_light.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_indirect_or_reflective_light.jpg){:height="70%" width="70%"}
 
 * Rendering (Adjusting satuation)
-![](/images/himawari_no_hi/himawari_no_hi_satuation.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_satuation.jpg){:height="70%" width="70%"}
 
 * Rendering of background
-![](/images/himawari_no_hi/himawari_no_hi_bg_rendering.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi_bg_rendering.jpg){:height="70%" width="70%"}
 
 * Adjusting curve
-![](/images/himawari_no_hi/himawari_no_hi.jpg)
+<br>
+![](/images/himawari_no_hi/himawari_no_hi.jpg){:height="70%" width="70%"}
 
 References:
 - (Part of the) Outfit: [阿笠的夏季種菜穿搭---夏日田間農事體驗的必備穿著](https://peacebee.pixnet.net/blog/post/10616628-%E9%98%BF%E7%AC%A0%E7%9A%84%E5%A4%8F%E5%AD%A3%E7%A8%AE%E8%8F%9C%E7%A9%BF%E6%90%AD---%E5%A4%8F%E6%97%A5%E7%94%B0%E9%96%93%E8%BE%B2%E4%BA%8B%E9%AB%94%E9%A9%97%E7%9A%84%E5%BF%85)

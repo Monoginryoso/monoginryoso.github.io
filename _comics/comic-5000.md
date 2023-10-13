@@ -11,32 +11,41 @@ The comic strip depicts the use of laboratory materials and equipment to pay hom
 ### Process: 
 
 * Storyboarding
-![](/images/have_some_skill/have_some_skill_storyboard.PNG)
+<br>
+![](https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/have_some_skill/have_some_skill_storyboard.PNG){:height="70%" width="70%"}
 
 * Generating a comic template (American Comicbook 11*17 Size 600 dpi here)
-![](/images/have_some_skill/have_some_skill.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill_template.jpg){:height="70%" width="70%"}
 
 * Rough
-![](/images/have_some_skill/have_some_skill_rough.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill_rough.jpg){:height="70%" width="70%"}
 
 * Lineart
-![](/images/have_some_skill/have_some_skill_lineart.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill_lineart.jpg){:height="70%" width="70%"}
 
 * Making a paper effect
-![](/images/have_some_skill/have_some_skill_paper.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill_paper.jpg){:height="70%" width="70%"}
 
 * Base coloring
-![](/images/have_some_skill/have_some_skill_basecolor.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill_basecolor.jpg){:height="70%" width="70%"}
 
 * Adding edges of the color bleeding
-![](/images/have_some_skill/have_some_skill_edge.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill_edge.jpg){:height="70%" width="70%"}
 
 * Lightening the middle part of the ink stains to simulate the watercolor wash technique
     - Also changed the appearance of the safety goggles in the second scene for uniformity.
-![](/images/have_some_skill/have_some_skill_lighten.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill_lighten.jpg){:height="70%" width="70%"}
 
 * Adding details to the phone camera interface
-![](/images/have_some_skill/have_some_skill.jpg)
+<br>
+![](/images/have_some_skill/have_some_skill.jpg){:height="70%" width="70%"}
 
 References:
 - The source of homage: [neo stops bullet.avi](https://www.youtube.com/watch?v=qVCSDDF-DAc)

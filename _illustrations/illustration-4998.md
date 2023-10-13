@@ -8,34 +8,44 @@ Based on the double-decker buses of Macao in the 1970s and the electronic produc
 ### Process: 
 
 * Sketch
-![](/images/route_21a/route_21a_sketch.jpg)
+<br>
+![](/images/route_21a/route_21a_sketch.jpg){:height="70%" width="70%"}
 
 * Base coloring
-![](/images/route_21a/route_21a_basecolor.jpg)
+<br>
+![](/images/route_21a/route_21a_basecolor.jpg){:height="70%" width="70%"}
 
 * Adding shadow
-![](/images/route_21a/route_21a_shadow.jpg)
+<br>
+![](/images/route_21a/route_21a_shadow.jpg){:height="70%" width="70%"}
 
 * Adding highlight
-![](/images/route_21a/route_21a_highlight.jpg)
+<br>
+![](/images/route_21a/route_21a_highlight.jpg){:height="70%" width="70%"}
 
 * Rendering (Adding indirect or reflective light, changed background color)
-![](/images/route_21a/route_21a_rendering_1.jpg)
+<br>
+![](/images/route_21a/route_21a_rendering_1.jpg){:height="70%" width="70%"}
 
 * Rendering (Adjusting colors)
-![](/images/route_21a/route_21a_rendering_2.jpg)
+<br>
+![](/images/route_21a/route_21a_rendering_2.jpg){:height="70%" width="70%"}
 
 * Adding content to the poster
-![](/images/route_21a/route_21a_poster.jpg)
+<br>
+![](/images/route_21a/route_21a_poster.jpg){:height="70%" width="70%"}
 
 * Adding a torn paper effect (ignore the edge) to the poster
-![](/images/route_21a/route_21a_poster_torn.jpg)
+<br>
+![](/images/route_21a/route_21a_poster_torn.jpg){:height="70%" width="70%"}
 
 * Weakening of lines outside the visual center
-![](/images/route_21a/route_21a_blur.jpg)
+<br>
+![](/images/route_21a/route_21a_blur.jpg){:height="70%" width="70%"}
 
 * Adding filter, gauss blur, and liquifying
-![](/images/route_21a/route_21a.jpg)
+<br>
+![](/images/route_21a/route_21a.jpg){:height="70%" width="70%"}
 
 References:
 - Bus: [福利公司首次引進雙層巴士](https://www.macaumemory.mo/entries_7850f82c002642d283472dd3a8b713f2)

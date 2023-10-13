@@ -8,46 +8,62 @@ An attempt to implement multipass compositing technique in Procreate.
 ### Process: 
 
 * Rough
-![](/images/birthday/birthday_rough.jpg)
+<br>
+![](/images/birthday/birthday_rough.jpg){:height="70%" width="70%"}
 
 * Simulating the refraction of alcohol burner in Blender
-![](/images/birthday/birthday_refraction_1.png)
-![](/images/birthday/birthday_refraction_2.png)
+<br>
+![](/images/birthday/birthday_refraction_1.png){:height="70%" width="70%"}
+<br>
+![](/images/birthday/birthday_refraction_2.png){:height="70%" width="70%"}
 
 * Lineart
-![](/images/birthday/birthday_lineart.jpg)
+<br>
+![](/images/birthday/birthday_lineart.jpg){:height="70%" width="70%"}
 
 * Base coloring
-![](/images/birthday/birthday_basecolor.jpg)
+<br>
+![](/images/birthday/birthday_basecolor.jpg){:height="70%" width="70%"}
 
 * Adding Gaussian Blur to the background
-![](/images/birthday/birthday_bg_blur.jpg)
+<br>
+![](/images/birthday/birthday_bg_blur.jpg){:height="70%" width="70%"}
 
 * Creating layers for multipass compositing
     - Light and shadow (Multiply)
-    ![](/images/birthday/birthday_shading.jpg)
+<br>
+    ![](/images/birthday/birthday_shading.jpg){:height="70%" width="70%"}
     - Color tendency of shadow (Lighten)
-    ![](/images/birthday/birthday_color_tendency_of_shadow.jpg)
+<br>
+    ![](/images/birthday/birthday_color_tendency_of_shadow.jpg){:height="70%" width="70%"}
     - Color tendency of light (Darker Colour)
-    ![](/images/birthday/birthday_color_tendency_of_light.jpg)
+<br>
+    ![](/images/birthday/birthday_color_tendency_of_light.jpg){:height="70%" width="70%"}
     - Indirect light (Colour Dodge)
-    ![](/images/birthday/birthday_indirect_light.jpg)
+<br>
+    ![](/images/birthday/birthday_indirect_light.jpg){:height="70%" width="70%"}
     - Layer setting:
-    ![](/images/birthday/birthday_layer_setting.jpg)
+<br>
+    ![](/images/birthday/birthday_layer_setting.jpg){:height="70%" width="70%"}
     - After compositing these layers:
-    ![](/images/birthday/birthday_merge.jpg)
+<br>
+    ![](/images/birthday/birthday_merge.jpg){:height="70%" width="70%"}
 
 * Adding highlight
-![](/images/birthday/birthday_highlight.jpg)
+<br>
+![](/images/birthday/birthday_highlight.jpg){:height="70%" width="70%"}
 
 * Rendering
-![](/images/birthday/birthday_rendering.jpg)
+<br>
+![](/images/birthday/birthday_rendering.jpg){:height="70%" width="70%"}
 
 * Adding Gaussian Blur to the pH test strips
-![](/images/birthday/birthday_blur.jpg)
+<br>
+![](/images/birthday/birthday_blur.jpg){:height="70%" width="70%"}
 
 * Adding filters
-![](/images/birthday/birthday.jpg)
+<br>
+![](/images/birthday/birthday.jpg){:height="70%" width="70%"}
 
 References:
 - Latex gloves balloon: [Ideas with latex gloves](https://balloonhq.com/wp-content/uploads/2023/03/glove1.jpg)
