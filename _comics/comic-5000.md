@@ -16,7 +16,7 @@ The comic strip depicts the use of laboratory materials and equipment to pay hom
 
 * Generating a comic template (American Comicbook 11*17 Size 600 dpi here)
 <br>
-![](/images/have_some_skill/have_some_skill_template.jpg){:height="70%" width="70%"}
+![](https://raw.githubusercontent.com/Monoginryoso/Monoginryoso.github.io/master/images/have_some_skill/have_some_skill_template.JPG){:height="70%" width="70%"}
 
 * Rough
 <br>
