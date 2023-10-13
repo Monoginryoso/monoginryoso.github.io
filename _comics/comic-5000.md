@@ -1,6 +1,6 @@
 ---
 title: "Have Some Skill"
-excerpt: "<br/><img src=' '>"
+excerpt: "<br/>![](/images/have_some_skill/have_some_skill.jpg)"
 collection: comics
 ---
 
@@ -11,32 +11,32 @@ The comic strip depicts the use of laboratory materials and equipment to pay hom
 ### Process: 
 
 * Storyboarding
-<img src=' '>
+![](/images/have_some_skill/have_some_skill_storyboard.jpg)
 
 * Generating a comic template (American Comicbook 11*17 Size 600 dpi here)
-<img src=' '>
+![](/images/have_some_skill/have_some_skill.jpg)
 
 * Rough
-<img src=' '>
+![](/images/have_some_skill/have_some_skill_rough.jpg)
 
 * Lineart
-<img src=' '>
+![](/images/have_some_skill/have_some_skill_lineart.jpg)
 
 * Making a paper effect
-<img src=' '>
+![](/images/have_some_skill/have_some_skill_paper.jpg)
 
 * Base coloring
-<img src=' '>
+![](/images/have_some_skill/have_some_skill_basecolor.jpg)
 
 * Adding edges of the color bleeding
-<img src=' '>
+![](/images/have_some_skill/have_some_skill_edge.jpg)
 
 * Lightening the middle part of the ink stains to simulate the watercolor wash technique
     - Also changed the appearance of the safety goggles in the second scene for uniformity.
-<img src=' '>
+![](/images/have_some_skill/have_some_skill_lighten.jpg)
 
 * Adding details to the phone camera interface
-<img src=' '>
+![](/images/have_some_skill/have_some_skill.jpg)
 
 References:
 - The source of homage: [neo stops bullet.avi](https://www.youtube.com/watch?v=qVCSDDF-DAc)
