@@ -11,7 +11,7 @@ The comic strip depicts the use of laboratory materials and equipment to pay hom
 ### Process: 
 
 * Storyboarding
-![](/images/have_some_skill/have_some_skill_storyboard.jpg)
+![](/images/have_some_skill/have_some_skill_storyboard.png)
 
 * Generating a comic template (American Comicbook 11*17 Size 600 dpi here)
 ![](/images/have_some_skill/have_some_skill.jpg)
