@@ -20,7 +20,7 @@ An artwork posted on halloween (October 31 2023). First attempt to the "Grayscal
     <br>
     ![](/images/halloween2023/halloween2023_lineart.jpg){:height="70%" width="70%"}
 
-* Defining the brightness of each part.
+* Defining the brightness of each part
 <br>
 ![](/images/halloween2023/halloween2023_value_shape.jpg){:height="70%" width="70%"}
 
