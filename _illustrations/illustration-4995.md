@@ -18,8 +18,9 @@ Control the visual hierarchy by applying contrast of hue, contrast of value, and
 
 
 * Lineart
-<br>
+
     - Adjustments to the structures which were not considered in the rough sketch.
+<br>
     ![](/images/laboratory_waste/laboratory_waste_lineart.jpg){:height="70%" width="70%"}
 
 * Rendering to the character
