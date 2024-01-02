@@ -1,0 +1,34 @@
+---
+title: "THX 1138: The Android Police"
+excerpt: "<br/>![](/images/thx1138_android/thx1138_android.jpg)"
+collection: illustrations
+---
+A fanart of the android police from George Lucas's dystopian movie *THX 1138*, where the face of the police reflects the torture of the protagonist THX 1138.
+
+### Process: 
+
+* Rough
+<br>
+![](/images/thx1138_android/thx1138_android_rough.jpg){:height="70%" width="70%"}
+
+
+* Color rough
+<br>
+    ![](/images/thx1138_android/thx1138_android_color_rough.jpg){:height="70%" width="70%"}
+
+* Lineart
+<br>
+![](/images/thx1138_android/thx1138_android_lineart.jpg){:height="70%" width="70%"}
+
+* Rendering
+    - Unsure about the construction of the straps used to secure the helmet because the straps are inconsistently constructed or blurred in various pictures. It is assumed that the helmet is a double-D ring helmet.
+<br>
+![](/images/thx1138_android/thx1138_android_rendering.jpg){:height="70%" width="70%"}
+
+* Adding filters
+<br>
+![](/images/thx1138_android/thx1138_android.jpg){:height="70%" width="70%"}
+
+References:
+- The scene: [THX 1138 (5/10) Movie CLIP - White Void Torture (1971) HD](https://www.youtube.com/watch?v=nkQAhpLBok8)
+- Details about the helmet, mask, and gloves: [THX 1138 Police Android Research Thread](https://www.therpf.com/forums/threads/thx-1138-police-android-research-thread.348723/)
