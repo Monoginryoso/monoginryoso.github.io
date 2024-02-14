@@ -12,11 +12,11 @@ The inside of an extended-release tablets containing Methylphenidate HCl looks l
 * Brainstorming
     - Two compositions were prepared (front view and 3/4 view).
     <br>
-![](/images/reuptake_inhibition/reuptake_inhibition_idea.jpg){:height="70%" width="70%"}
+    ![](/images/reuptake_inhibition/reuptake_inhibition_idea.jpg){:height="70%" width="70%"}
 
     - The latter was chosen because it is easier to draw other elements.
-<br>
-![](/images/reuptake_inhibition/reuptake_inhibition_idea_final.jpg){:height="70%" width="70%"}
+    <br>
+    ![](/images/reuptake_inhibition/reuptake_inhibition_idea_final.jpg){:height="70%" width="70%"}
 
 
 * Rough
