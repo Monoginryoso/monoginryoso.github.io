@@ -40,7 +40,6 @@ The inside of an extended-release tablets containing Methylphenidate HCl looks l
 ![](/images/reuptake_inhibition/reuptake_inhibition_lineart.jpg){:height="70%" width="70%"}
 
 * Rendering the character
-    - Also tracing the 6-well plate and the pipette tips that are not covered by it.
 <br>
 ![](/images/reuptake_inhibition/reuptake_inhibition_rendering.jpg){:height="70%" width="70%"}
 
