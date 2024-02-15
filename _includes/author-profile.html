@@ -49,7 +49,9 @@
       {% if author.pixiv %}
         <li><a rel="me" href="https://{{ author.pixiv }}"><i class="fa fa-paint-brush" aria-hidden="true" style="padding-right: 0.5em;"></i>Pixiv</a></li>
       {% endif %}
-
+      {% if author.bluesky %}
+        <li><a rel="me" href="https://{{ author.bluesky }}"><i class="fa fa-cloud" aria-hidden="true" style="padding-right: 0.3em;"></i>Bluesky</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true" style="padding-right: 1.5em;"></i>Facebook</a></li>
       {% endif %}
