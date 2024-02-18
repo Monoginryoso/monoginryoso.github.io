@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in Biomedical Sciences with a passion for doodling on my iPad. My artwork often centers around biology as well as other scientific fields, featuring original characters as well as occasional fanart pieces.
+I am an undergraduate student majoring in Biomedical Sciences with a passion for doodling on my iPad. My artwork often centers around biology or other scientific fields, featuring original characters as well as occasional fanart pieces.
 
 This website serves as a platform to showcase the concepts and creative processes behind my artworks.
