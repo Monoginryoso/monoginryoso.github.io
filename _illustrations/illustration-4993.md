@@ -5,7 +5,7 @@ collection: illustrations
 ---
 DISCLAIMER: This work contains artistic exaggerations and is not intended to encourage the improper use of drugs. Please take prescription medications strictly in accordance with your doctor's prescription.
 
-The inside of an extended-release tablets containing Methylphenidate HCl looks like neapolitan ice cream with three flavors.
+The inside of an extended-release tablet containing Methylphenidate HCl looks like neapolitan ice cream with three flavors.
 
 ### Process: 
 
