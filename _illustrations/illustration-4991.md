@@ -4,7 +4,7 @@ excerpt: "<br/>![](/images/cherry-pick/cherry-pick.jpg)"
 collection: illustrations
 ---
 
-I particularly like the name cherry-pick because it corresponds to 'branch' in git. 
+I particularly like the name cherry-pick because it corresponds to 'branch' in git.
 
 ### Process: 
 
