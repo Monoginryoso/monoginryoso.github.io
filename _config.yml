@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "MonoGinryoso"
-  avatar           : "/profile/profile.PNG"
+  avatar           : "/profile/profile.svg"
   bio              : "試行錯誤による学習。"
   location         :
   employer         :
