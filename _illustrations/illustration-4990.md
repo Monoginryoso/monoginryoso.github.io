@@ -1,0 +1,53 @@
+---
+title: "VOCALOID Song: Artery"
+excerpt: "<br/>![](/images/artery/artery.jpg)"
+collection: illustrations
+---
+
+Original: [Artery – AVTechNO! feat. 初音ミク](https://www.youtube.com/watch?v=KrUbkWj4atk)
+
+### Process: 
+
+* Idea
+    - Based on the lyrics
+        >片目閉じて心をみつめ<br>(close one eye and gaze into the heart)
+
+        >消えてくひとつひとつの激情でさえ/確かな脈のひとつとなる<br>(even each fading passion/becomes one of the certain pulses)
+<br>
+    - and a rhythm similar to cardiac rhythm, created multiple versions of the composition.
+<br>
+![](/images/artery/artery_idea.jpg){:height="70%" width="70%"}
+
+* Rough
+    - The third version from the left was chosen as a rough. A silhouette was designed for interlocking hair.
+<br>
+![](/images/artery/artery_rough.jpg){:height="70%" width="70%"}
+
+* Base color
+    - The color palette and border pattern of the album cover illustration were referenced.
+<br>
+![](/images/artery/artery_color_rough.jpg){:height="70%" width="70%"}
+
+* Rendering
+    - Added raindrops and improved the structure of the shoulder and neck sections. Determine the visual of the final version.
+<br>
+![](/images/artery/artery_rendering_1.jpg){:height="70%" width="70%"}
+
+* Lineart
+    - Slightly changed the structure of the face as well as the hair accessory.
+<br>
+![](/images/artery/artery_lineart.jpg){:height="70%" width="70%"}
+
+* Rendering
+<br>
+![](/images/artery/artery_rendering_2.jpg){:height="70%" width="70%"}
+
+* Adding filters, changing the shape of raindrops
+<br>
+![](/images/artery/artery.jpg){:height="70%" width="70%"}
+
+
+References:
+- [PULSE - AVTechNO! Album Cover](https://ototoy.jp/_/default/p/59996)
+- The shape of raindrops: [Villermaux, E., & Bossa, B. (2009, July 20). Single-drop fragmentation determines size distribution of raindrops. [Figure]. Nature Physics. https://www.researchgate.net/profile/Emmanuel-Villermaux/publication/202846649/figure/fig3/AS:281243615809536@1444065111420/Topological-changes-of-falling-drops-and-fragmentationTop-row-series-of-events-of-the.png](https://www.researchgate.net/profile/Emmanuel-Villermaux/publication/202846649/figure/fig3/AS:281243615809536@1444065111420/Topological-changes-of-falling-drops-and-fragmentationTop-row-series-of-events-of-the.png)
+- Sinus Rhythm: [Tribhuvanam, S. (2020). Analysis and classification of ECG beat based on wavelet decomposition and SVM. [Figure]. Indian Journal of Science and Technology. https://www.researchgate.net/publication/343159983/figure/fig1/AS:916450009161729@1595510117481/Features-of-normal-sinus-rhythm.ppm](https://www.researchgate.net/publication/343159983/figure/fig1/AS:916450009161729@1595510117481/Features-of-normal-sinus-rhythm.ppm)

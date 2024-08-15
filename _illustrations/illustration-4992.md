@@ -3,7 +3,7 @@ title: "VOCALOID Song: Pavlovian Love"
 excerpt: "<br/>![](/images/pavlovian_love/pavlovian_love.jpg)"
 collection: illustrations
 ---
-Original: [Pavlovian Love - DATEKEN feat. Rin KAGAMINE V4X (Sweet)](https://youtu.be/GjR2C81-Txc?si=4iJhXT-0BFEUwA5s)
+Original: [Pavlovian Love - DATEKEN feat. Rin KAGAMINE V4X (Sweet)](https://www.youtube.com/watch?v=GjR2C81-Txc)
 
 ### Process: 
 
