@@ -1,5 +1,11 @@
 ---
 title: "VOCALOID Song: Pavlovian Love"
+date: 2024-05-18
+permalink: /posts/2024/05/pavlovian-love/
+tags:
+  - Illustration
+  - Fanart
+  - VOCALOID
 excerpt: "<br/>![](/images/pavlovian_love/pavlovian_love.jpg)"
 collection: illustrations
 ---

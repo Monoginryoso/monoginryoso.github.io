@@ -1,5 +1,11 @@
 ---
 title: "Reuptake Inhibition"
+date: 2024-02-10
+permalink: /posts/2024/02/reuptake-inhibition/
+tags:
+  - Illustration
+  - Original Art
+  - Original Character
 excerpt: "<br/>![](/images/reuptake_inhibition/reuptake_inhibition.jpg)"
 collection: illustrations
 ---

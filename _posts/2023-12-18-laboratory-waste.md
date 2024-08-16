@@ -1,5 +1,11 @@
 ---
 title: "Laboratory Waste"
+date: 2023-12-18
+permalink: /posts/2023/12/laboratory-waste/
+tags:
+  - Illustration
+  - Original Art
+  - Original Character
 excerpt: "<br/>![](/images/laboratory_waste/laboratory_waste.jpg)"
 collection: illustrations
 ---

@@ -1,5 +1,11 @@
 ---
 title: "ひまわりの種"
+date: 2023-07-14
+permalink: /posts/2023/07/himawari-no-hi/
+tags:
+  - Illustration
+  - Original Art
+  - Original Character
 excerpt: "<br/>![](/images/himawari_no_hi/himawari_no_hi.jpg)"
 collection: illustrations
 ---

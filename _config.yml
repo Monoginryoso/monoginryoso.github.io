@@ -180,6 +180,18 @@ kramdown:
 
 # Collections
 collections:
+  original-art:
+    output: true
+    permalink: /:collection/:path/
+  fanart:
+    output: true
+    permalink: /:collection/:path/
+  illustrations:
+    output: true
+    permalink: /:collection/:path/
+      comics:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -190,12 +202,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:collection/:path/
-  illustrations:
-    output: true
-    permalink: /:collection/:path/
-  comics:
     output: true
     permalink: /:collection/:path/
 
@@ -234,6 +240,24 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _original-art
+  - scope:
+      path: ""
+      type: original-art
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _fanart
+  - scope:
+      path: ""
+      type: fanart
     values:
       layout: single
       author_profile: true

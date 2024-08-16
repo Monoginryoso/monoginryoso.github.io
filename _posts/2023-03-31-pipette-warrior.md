@@ -1,5 +1,11 @@
 ---
 title: "Pipette Warrior"
+date: 2023-03-31
+permalink: /posts/2023/03/pipette-warrior/
+tags:
+  - Illustration
+  - Original Art
+  - Original Character
 excerpt: "<br/>![](/images/pipette_warrior/pipette_warrior.jpg)"
 collection: illustrations
 ---

@@ -1,5 +1,11 @@
 ---
 title: "cherry-pick"
+date: 2024-07-18
+permalink: /posts/2024/07/cherry-pick/
+tags:
+  - Illustration
+  - Original Art
+  - Original Character
 excerpt: "<br/>![](/images/cherry-pick/cherry-pick.jpg)"
 collection: illustrations
 ---

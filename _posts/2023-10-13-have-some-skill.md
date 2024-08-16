@@ -1,5 +1,11 @@
 ---
 title: "Have Some Skill"
+date: 2023-03-31
+permalink: /posts/2023/10/have-some-skill/
+tags:
+  - Comic
+  - Original Comic
+  - Original Character
 excerpt: "<br/>![](/images/have_some_skill/have_some_skill.jpg)"
 collection: comics
 ---
