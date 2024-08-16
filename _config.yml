@@ -189,7 +189,7 @@ collections:
   illustrations:
     output: true
     permalink: /:collection/:path/
-      comics:
+  comics:
     output: true
     permalink: /:collection/:path/
   teaching:
