@@ -67,6 +67,9 @@
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true" style="padding-right: 1.5em;"></i>Instagram</a></li>
       {% endif %}
+      {% if author.threads %}
+        <li><a href="https://threads.net/@{{ author.threads }}"><i class="fa fa-threads" aria-hidden="true" style="padding-right: 0.6em;"></i>Threads</a></li>
+      {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true" style="padding-right: 1.5em;"></i>Tumblr</a></li>
       {% endif %}

@@ -303,6 +303,16 @@ body:hover .visually-hidden button {
 	font-size:1.2em;
 }
 
+.fa.fa-threads{
+	font-family:sans-serif;
+  color: $threads-color;
+}
+
+.fa.fa-threads::before{
+	content:"@";
+	font-size:1.2em;
+}
+
 /*
    Navicons
    ========================================================================== */
