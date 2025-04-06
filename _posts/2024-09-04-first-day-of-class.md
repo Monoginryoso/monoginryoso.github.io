@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/first_day_of_class/first_day_of_class.jpg)"
+excerpt: "<br/>![](/images/first_day_of_class/first_day_of_class_v2.0.jpg)"
 collection: illustrations
 ---
 
@@ -50,6 +50,10 @@ OC attended high school in a quiet, charming town.
 * Gaussian blur
 <br>
 ![](/images/first_day_of_class/first_day_of_class.jpg){:height="70%" width="70%"}
+
+* Update 2025-04-06: Fixed the drawing of the bookmarks for the notebook, added more personalization to the references, adjusted the overall colors.
+<br>
+![](/images/first_day_of_class/first_day_of_class_v2.0.jpg){:height="70%" width="70%"}
 
 References:
 - Uniform: [# NOTE](https://media.social.qoto.org/media_attachments/files/112/818/744/731/056/143/original/ce446d5e5a34eb34.png)

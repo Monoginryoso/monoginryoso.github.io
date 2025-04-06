@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/laboratory_waste/laboratory_waste.jpg)"
+excerpt: "<br/>![](/images/laboratory_waste/laboratory_waste_v2.0.jpg)"
 collection: illustrations
 ---
 Control the visual hierarchy by applying contrast of hue, contrast of value, and contrast of saturation to illustrate the messy cell culture waste from biomedical laboratories.
@@ -50,6 +50,10 @@ Control the visual hierarchy by applying contrast of hue, contrast of value, and
 * Adding filters to further reduce the contrast and saturation of the background.
 <br>
 ![](/images/laboratory_waste/laboratory_waste.jpg){:height="70%" width="70%"}
+
+* Update 2025-04-06: Updated character appearance and adjusted the overall colors.
+<br>
+![](/images/laboratory_waste/laboratory_waste_v2.0.jpg){:height="70%" width="70%"}
 
 References:
 - Pipette tips (200 µL and 1000 µL): [Pipette Tips GILSON-fitted (10 / 200 / 1000μl)](https://down-my.img.susercontent.com/file/my-11134207-23010-982d1gc3wymvc8)
