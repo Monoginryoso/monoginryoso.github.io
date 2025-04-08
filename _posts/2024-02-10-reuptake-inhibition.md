@@ -32,7 +32,7 @@ The inside of an extended-release tablet containing Methylphenidate HCl looks li
     ![](/images/reuptake_inhibition/reuptake_inhibition_rough.jpg){:height="70%" width="70%"}
 
 * Color rough
-    - All elements, including the characters, drug overcoats and ice cream are in warm tones, so the shadows are in cooler colors.
+    - All elements, including the character, drug overcoats and ice cream are in warm tones, so the shadows are in cooler colors.
 <br>
 ![](/images/reuptake_inhibition/reuptake_inhibition_color_rough.jpg){:height="70%" width="70%"}
 
@@ -62,6 +62,6 @@ References:
 - Neapolitan ice cream cone: [PWhippy-style Neapolitan ice cream cones](https://ui3.assets-asda.com/dm/neopolitan-whippy_GL?scl=1)
 - Methylphenidate HCl structural formula: [Methylphenidate Hydrochloride Oral Solution 5 mg/5 mL and 10 mg/5 mL CII Rx only](https://fda.report/DailyMed/c6cd3a32-d397-4d45-831d-ed93e47abc86/methylphenidate-hydrochloride-oral-solution---hydr-1.jpg)
 - Structure of these tablets: [Osmotic-controlled release oral delivery system](https://en.wikipedia.org/wiki/Osmotic-controlled_release_oral_delivery_system)
-- Mechanism of the norepinephrine–dopamine reuptake inhibitor: [Fig. 1 Overlapping but distinct putative mechanisms of action of a methylphenidate (MPH) and b amfetamine (AMF) at the dopamine synapse. VMAT2 vesicular monoamine transporter 2. Adapted from "Amfetamine and methylphenidate medications for attention-deficit/hyperactivity disorder: complementary treatment options" by P. Hodgkins et al., 2012, Eur Child Adolesc Psychiatry, 21(9), p.477–492. Copyright 2012 by Paul Hodgkins, Monica Shaw, David Coghill, and Lily Hechtman](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432777/bin/787_2012_286_Fig1_HTML.jpg)
+- Mechanism of the norepinephrine–dopamine reuptake inhibitor: [Fig. 1 Overlapping but distinct putative mechanisms of action of a methylphenidate (MPH) and b amfetamine (AMF) at the dopamine synapse. VMAT2 vesicular monoamine transporter 2. Adapted from "Amfetamine and methylphenidate medications for attention-deficit/hyperactivity disorder: complementary treatment options" by P. Hodgkins et al., 2012, Eur Child Adolesc Psychiatry, 21(9), p.477–492. Copyright 2012 by Paul Hodgkins, Monica Shaw, David Coghill, and Lily Hechtman](https://www.researchgate.net/profile/Paul-Hodgkins/publication/228324660/figure/fig1/AS:340391862784001@1458167152291/Overlapping-but-distinct-putative-mechanisms-of-action-of-a-methylphenidate-MPH-and-b.png)
 - Color code on the bracelet made of resistor (An easter egg that nobody cares about): [Resistor Color Code Chart](https://eepower.com/uploads/education/resistor_color_codes_chart.png)
 - The watch: [Straight Edge "X" - Watch](https://revhq.com/cdn/shop/products/xwatch-500x500_2000x.jpg?v=1589913704)
