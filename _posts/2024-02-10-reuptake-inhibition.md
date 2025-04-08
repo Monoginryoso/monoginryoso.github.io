@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/reuptake_inhibition/reuptake_inhibition.jpg)"
+excerpt: "<br/>![](/images/reuptake_inhibition/reuptake_inhibition_v2.0.jpg)"
 collection: illustrations
 ---
 DISCLAIMER: This work contains artistic exaggerations and is not intended to encourage the improper use of drugs. Please take prescription medications strictly in accordance with your doctor's prescription.
@@ -52,6 +52,11 @@ The inside of an extended-release tablet containing Methylphenidate HCl looks li
 * Rendering the background
 <br>
 ![](/images/reuptake_inhibition/reuptake_inhibition.jpg){:height="70%" width="70%"}
+
+* Update 2025-04-08: Adjusted the overall colors.
+<br>
+![](/images/reuptake_inhibition/reuptake_inhibition_v2.0.jpg){:height="70%" width="70%"}
+
 
 References:
 - Neapolitan ice cream cone: [PWhippy-style Neapolitan ice cream cones](https://ui3.assets-asda.com/dm/neopolitan-whippy_GL?scl=1)

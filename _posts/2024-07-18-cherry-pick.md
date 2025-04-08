@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/cherry-pick/cherry-pick.jpg)"
+excerpt: "<br/>![](/images/cherry-pick/cherry-pick_v2.0.jpg)"
 collection: illustrations
 ---
 
@@ -50,6 +50,10 @@ I particularly like the name cherry-pick because it corresponds to 'branch' in g
 * Gaussian blur
 <br>
 ![](/images/cherry-pick/cherry-pick.jpg){:height="70%" width="70%"}
+
+* Update 2025-04-08: Adjusted the overall colors.
+<br>
+![](/images/cherry-pick/cherry-pick_v2.0.jpg){:height="70%" width="70%"}
 
 References:
 - [git-cherry-pick](https://git-scm.com/docs/git-cherry-pick)
