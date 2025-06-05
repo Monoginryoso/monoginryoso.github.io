@@ -1,9 +1,10 @@
 ---
-title: "Eosinophil (Chibi)"
+title: "Cells at Work!: Eosinophil (Chibi)"
 date: 2024-12-20
 permalink: /posts/2024/12/Eosinophil-Chibi/
 tags:
   - Illustration
+  - Fanart
   - はたらく細胞!!
   - Chibi
 excerpt: "<br/>![](/images/eosinophil_chibi/eosinophil_chibi_preview.jpg)"
