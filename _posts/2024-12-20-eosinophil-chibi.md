@@ -53,5 +53,5 @@ However, I accidentally selected an extra large size (about 25 cm) for the acryl
 References:
 - [好酸球](https://hataraku-saibou.com/1st/character/?chara=eosinophil)
 - [Eosinophils and lymphocyte](https://imagebank.hematology.org/getimagebyid/63365?size=3)
-- [クールな好酸球の照れ顔がギャップ萌えハンパない！ 3分で振り返る『はたらく細胞』第4話盛り上がったシーン](https://news.livedoor.com/article/image_detail/15100501/?img_id=18361087)
+- [クールな好酸球の照れ顔がギャップ萌えハンパない！ 3分で振り返る『はたらく細胞』第4話盛り上がったシーン](https://originalnews.nico/wp-content/uploads/2018/08/04hts_02.jpg)
 - [Structural Basis of Receptor Sulfotyrosine Recognition by a CC Chemokine: the N-terminal Region of CCR3 Bound to CCL11/Eotaxin-1](https://www.rcsb.org/3d-view/2MPM/0)
