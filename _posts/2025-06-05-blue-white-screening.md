@@ -44,7 +44,7 @@ Blue-white screening is like planting blue and white baby's breath in a petri di
 
 References:
 - [Transformation and screening results of the blue and white colonies from E.coli recombinant.](https://www.researchgate.net/publication/337085421/figure/fig2/AS:822615509852167@1573138229751/Transformation-and-screening-results-of-the-blue-and-white-colonies-from-Ecoli.jpg)
-- Roses are traced from the image below:
+- Roses are traced from the images below:
     - [pink roses in clear glass vase](https://images.unsplash.com/photo-1585151204136-4bd4244e1270?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
     - [a bunch of yellow roses with green leaves](https://images.unsplash.com/photo-1712258091854-ac9460506a76?q=80&w=3720&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
     - [a person holding a bunch of red roses](https://plus.unsplash.com/premium_photo-1673809129994-258a489a5f09?q=80&w=3987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
