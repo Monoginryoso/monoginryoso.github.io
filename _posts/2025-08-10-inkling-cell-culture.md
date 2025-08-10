@@ -62,7 +62,6 @@ The ink tank is modified from a closed cell culture bag used for culturing blood
 ![](/images/inkling_cell_culture/inkling_cell_culture_gaussian_blur.png){:height="70%" width="70%"}
 
 * Rendering the background
-    - Changes the shape of the blood on the surgical drape as well as adding reflections on the metal (although it is not accurate).
 <br>
 ![](/images/inkling_cell_culture/inkling_cell_culture.png){:height="70%" width="70%"}
 
