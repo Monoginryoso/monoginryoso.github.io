@@ -313,6 +313,16 @@ body:hover .visually-hidden button {
 	font-size:1.2em;
 }
 
+.fa.fa-cara{
+	font-family:sans-serif;
+  color: $cara-color;
+}
+
+.fa.fa-cara::before{
+	content:"C";
+	font-size:1.2em;
+}
+
 /*
    Navicons
    ========================================================================== */

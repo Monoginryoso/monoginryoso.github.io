@@ -1,5 +1,5 @@
 ---
-title: "Inkling Cell (?) Culture"
+title: "Splatoon: Inkling Cell (?) Culture"
 date: 2025-08-10
 permalink: /posts/2025/08/inkling-cell-culture/
 tags:
