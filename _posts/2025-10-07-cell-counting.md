@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/cell_counting/cell_counting.PNG)"
+excerpt: "<br/>![](/images/cell-counting/cell-counting.PNG)"
 collection: illustrations
 ---
 
@@ -17,37 +17,37 @@ The grids of the counting chamber not only imprison cells but also time. Saturat
 * Idea
     - Combining different elements based on the incomplete cell membranes of dead cells, the grid of the cell counting plate, the microscopic field of view, and the torn nitrile gloves.
 <br>
-![](/images/cell_counting/cell_counting_idea.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting-idea.png){:height="70%" width="70%"}
 
 * Rough
 <br>
-![](/images/cell_counting/cell_counting_rough.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting-rough.png){:height="70%" width="70%"}
 
 * Basecolor
 <br>
-![](/images/cell_counting/cell_counting_color_rough.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting-color-rough.png){:height="70%" width="70%"}
 
 * Lineart
 <br>
-![](/images/cell_counting/cell_counting_lineart.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting-lineart.png){:height="70%" width="70%"}
 
 * Enriching the colors of the image
     - Distinguished faces directly illuminated by the light source from those at angles away from it by altering hue/saturation.
 <br>
-![](/images/cell_counting/cell_counting_rendering_1.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting-rendering-1.png){:height="70%" width="70%"}
 
 * Rendering the character
 <br>
-![](/images/cell_counting/cell_counting_rendering_2.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting-rendering-2.png){:height="70%" width="70%"}
 
 * Adding filters
     - Simulated light attenuation effects and further enhanced the contrast of the image.
 <br>
-![](/images/cell_counting/cell_counting_rendering_3.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting-rendering-3.png){:height="70%" width="70%"}
 
 * Rendering background and foreground
 <br>
-![](/images/cell_counting/cell_counting.png){:height="70%" width="70%"}
+![](/images/cell-counting/cell-counting.png){:height="70%" width="70%"}
 
 References:
 - [Trypan Blue staining protocol](https://cdn.document360.io/1fc69f91-cf1e-45ab-bc51-4063eb80e37c/Images/Documentation/trypanBlue_ABonly_compressed(1).png)
