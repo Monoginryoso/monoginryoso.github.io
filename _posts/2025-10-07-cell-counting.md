@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/cell_counting/cell_counting.png)"
+excerpt: "<br/>![](/images/cell_counting/cell_counting.PNG)"
 collection: illustrations
 ---
 
