@@ -10,7 +10,7 @@ excerpt: "<br/>![](/images/cell-counting/cell-counting.PNG)"
 collection: illustrations
 ---
 
-The grids of the counting chamber not only imprison cells but also time. Saturated desires gradually lose their osmotic pressure, tearing fissures in the ideal semipermeable membrane. Trypan blue gently seeps into these wounds, staining the transparent carcasses a deep, profound blue. No mourning is needed—only proof that existence once truly existed.
+The grids of the counting chamber not only imprison cells but also time. Saturated desires gradually lose their osmotic pressure, tearing fissures in the ideal semipermeable membrane. Trypan blue gently seeps into these wounds, staining the transparent carcasses a deep, profound blue.
 
 ### Process: 
 
