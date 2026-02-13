@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/chocoholic/chocoholic.PNG)"
+excerpt: "<br/>![](/images/chocoholic/chocoholic.png)"
 collection: illustrations
 ---
 
@@ -39,7 +39,7 @@ This year, I discovered that mixing equal parts of white chocolate and dark choc
 * Rendering the background
     - Once the character was completed, the background seemed too simple. Applied the same concept to render the background and sharpened the objects in the background using layer modes.
 <br>
-![](/images/chocoholic/chocoholic.PNG){:height="70%" width="70%"}
+![](/images/chocoholic/chocoholic.png){:height="70%" width="70%"}
 
 References:
 - [Skeletal formula of dopamine](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dopamine.svg/3840px-Dopamine.svg.png)
