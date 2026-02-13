@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/chocoholic/chocoholic.PNG)"
+excerpt: "<br/>![](/images/chocoholic/chocoholic.png)"
 collection: illustrations
 ---
 
