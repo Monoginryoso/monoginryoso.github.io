@@ -14,7 +14,7 @@ Last month, I discovered a factory error Rei plush at the "落花盈裳" pop-up 
 
 Her bangs resembled baby bangs, rather than the usual Rei plush with bangs centered in the middle. I wondered if her bangs were just curled up? However, after opening the packaging, I couldn't pull the fabric on her forehead down, it seemed to be glued.
 
-This minor mistake actually made Rei look more suited to her neo-Chinese style outfit better.
+This minor mistake actually made Rei look more suited to her neo-Chinese style outfit.
 <br><br>
 ![](/images/baby-bangs/baby-bangs-plush-store.png){:height="70%" width="70%"}
 <br><br>
