@@ -46,7 +46,7 @@ Here is a comparison with the regular plush.
 * Writing calligraphy
     - It's so difficult to write Chinese characters and Kanji on iPad :(
 <br>
-![](/images/baby-bangs/baby-bangs.png){:height="70%" width="70%"}
+![](/images/baby-bangs/baby-bangs.PNG){:height="70%" width="70%"}
 
 References:
 - [エヴァンゲリオン × JOYOUTH　落花盈裳新中式ポップアップストアイラスト](https://pbs.twimg.com/media/G9qDP6uboAArV-x?format=jpg&name=large)
