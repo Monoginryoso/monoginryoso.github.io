@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Fanart
   - 新世紀エヴァンゲリオン
-excerpt: "<br/>![](/images/baby-bangs/baby-bangs.png)"
+excerpt: "<br/>![](/images/baby-bangs/baby-bangs.PNG)"
 collection: illustrations
 ---
 
@@ -19,7 +19,7 @@ This minor mistake actually made Rei look more suited to her neo-Chinese style o
 ![](/images/baby-bangs/baby-bangs-plush-store.png){:height="70%" width="70%"}
 <br><br>
 Here is a comparison with the regular plush.
-![](/images/baby-bangs/baby-bangs-plush.png){:height="70%" width="70%"}
+![](/images/baby-bangs/baby-bangs-plush.PNG){:height="70%" width="70%"}
 
 ### Process: 
 
