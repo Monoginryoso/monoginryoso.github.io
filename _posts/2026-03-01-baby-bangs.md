@@ -24,7 +24,7 @@ Here is a comparison with the regular plush.
 ### Process: 
 
 * Rough
-    <br>
+<br>
 ![](/images/baby-bangs/baby-bangs-rough.png){:height="70%" width="70%"}
 
 * Basecolor

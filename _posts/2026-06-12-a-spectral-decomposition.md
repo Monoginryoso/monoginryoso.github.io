@@ -1,4 +1,4 @@
-v---
+---
 title: "A Spectral Decomposition"
 date: 2026-06-12
 permalink: /posts/2026/06/a-spectral-decomposition/
