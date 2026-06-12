@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in Biomedical Sciences with a passion for digital art. My work often focuses on themes related to biology and other scientific disciplines, featuring original characters as well as occasional fanart.
+I draw original characters, scientific concepts, fanart, and the tiny details that make a world feel real.
 
-This website serves as a platform to showcase the concepts and creative processes behind my artwork.
+Interested in cognitive neuroscience, visual perception, and why different people can look at the same thing and see something completely different.
+
+Currently studying these questions through both science and art.
