@@ -6,7 +6,7 @@ tags:
   - Illustration
   - Original Art
   - Original Character
-excerpt: "<br/>![](/images/a-spectral-decomposition/a-spectral-decomposition.PNG)"
+excerpt: "<br/>![](/images/a-spectral-decomposition/a-spectral-decomposition.png)"
 collection: illustrations
 ---
 
@@ -17,35 +17,35 @@ This piece is inspired by the Fourier transform. The violin performance represen
 
 * Rough
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition-rough.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition-rough.png){:height="70%" width="70%"}
 
 * Shadow
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition-shadow.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition-shadow.png){:height="70%" width="70%"}
 
 * Lineart
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition-lineart.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition-lineart.png){:height="70%" width="70%"}
 
 * Epicycle
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition-epicycle.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition-epicycle.png){:height="70%" width="70%"}
 
 * Basecolor
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition-basecolor.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition-basecolor.png){:height="70%" width="70%"}
 
 * Overlay
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition-render-1.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition-render-1.png){:height="70%" width="70%"}
 
 * Rendering
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition-render-2.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition-render-2.png){:height="70%" width="70%"}
 
 * Deepen the shadow
 <br>
-![](/images/a-spectral-decomposition/a-spectral-decomposition.PNG){:height="70%" width="70%"}
+![](/images/a-spectral-decomposition/a-spectral-decomposition.png){:height="70%" width="70%"}
 
 References:
 - [Vyas, A., Yu, S., Paik, J. (2018). Fourier Analysis and Fourier Transform. In: Multiscale Transforms with Application to Image Processing. Signals and Communication Technology. Springer, Singapore. https://doi.org/10.1007/978-981-10-7272-7_2](https://doi.org/10.1007/978-981-10-7272-7_2)
