@@ -58,6 +58,9 @@
       {% if author.threads %}
         <li><a href="https://threads.net/@{{ author.threads }}"><i class="fa fa-threads" aria-hidden="true" style="padding-right: 0.6em;"></i>Threads</a></li>
       {% endif %}
+      {% if author.vgen %}
+        <li><a rel="me" href="https://{{ author.vgen }}"><i class="fa-solid fa-v" aria-hidden="true" style="padding-right: 0.6em;"></i>Vgen</a></li>
+      {% endif %}
       {% if author.mastodon %}
         <li><a rel="me" href="https://{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon" aria-hidden="true" style="padding-right: 1.5em;"></i>Mastodon</a></li>
       {% endif %}
