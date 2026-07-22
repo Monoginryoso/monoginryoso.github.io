@@ -12,6 +12,7 @@ excerpt: "<br/>![](/images/inkling-lain/inkling-lain.png)"
 collection: illustrations
 ---
 
+Teddy Band is so cute, I want to see Lain wearing it.
 
 ### Process: 
 
