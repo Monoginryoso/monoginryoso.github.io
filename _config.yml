@@ -118,10 +118,10 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
-  mastodon         : "mastodon.social/@m_ginryoso"
+  mastodon         : 
   bluesky          : "bsky.app/profile/monoginryoso.bsky.social"
   cara             : "cara.app/monoginryoso"
-  vgen             : "vgen.co/m_ginryoso"
+  vgen             : # "vgen.co/m_ginryoso"
 
 
 # Reading Files
